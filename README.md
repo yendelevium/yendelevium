@@ -2,7 +2,7 @@
 
 ### Hey, I'm Yash :) I like making stuff
 I want to build products that don't just work, but excel - systems that endure and make an impact. I'm living my dream - coding and having fun, and I love every aspect of it: be it the excitement of coming up with a million project ideas(and not choosing any of them), starting a new project, completing said project, or spending hours debugging an error that ends up being extremely obvious(ok mayyybee I _don't_ love this one as much), they all make coding, well, _coding_. I want to build, experiment, fail even, but I don't want to stop learning.<br>
-🩻SWE intern@Linity,Germany <br>
+🩻SWE intern@Linity, Germany <br>
 🪴Currently learning `system design` <br>
 🧋Rust and Golang junkie <br>
 🎓`CS'27` undergrad <br>
