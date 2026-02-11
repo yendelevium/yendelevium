@@ -14,6 +14,5 @@ I want to build products that don't just work, but excel - systems that endure a
 
 
 Catch me at [Mail](mailto:yashbardia27@gmail.com) or [Corporate Facebook](https://www.linkedin.com/in/yashbardia/)<br>
-Welp, that's all I want to say. As a reward for sitting through this, here's a quote that helped me a lot :)
-> Don’t borrow grief from the future, nor drag it over from the past..
+Welp, that's all I want to say. Bye!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
